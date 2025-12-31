@@ -18,7 +18,7 @@ Aplikasi **fullstack** untuk mengelola koleksi buku pribadi. Dibuat dengan **Nux
 
 ### Live Demo
 
-🔗 https://your-book-collection.vercel.app
+🔗 https://book-colletion-3ovajsne0-mukminlittaqwas-projects.vercel.app/
 
 ## Tech Stack
 
